@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LibraPatch.vcxproj" Id="83d31653-72f9-4c61-be75-f34129090d6a" />
+</Solution>
