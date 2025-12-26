@@ -3,4 +3,4 @@
 	url = https://github.com/Dasaav-dsv/Pattern16.git
 [submodule "include/minhook"]
 	path = include/minhook
-	url = git@github.com:Umgak/minhook.git
+	url = https://github.com/Umgak/minhook.git
