@@ -3,5 +3,8 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="LibraPatch.vcxproj" Id="83d31653-72f9-4c61-be75-f34129090d6a" />
+  <Project Path="include/minhook/build/VC17_v145/libMinHook.vcxproj" Id="f142a341-5ee0-442d-a15f-98ae9b48dbae" />
+  <Project Path="LibraPatch.vcxproj" Id="83d31653-72f9-4c61-be75-f34129090d6a">
+    <BuildDependency Project="include/minhook/build/VC17_v145/libMinHook.vcxproj" />
+  </Project>
 </Solution>
