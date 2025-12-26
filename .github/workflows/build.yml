@@ -24,6 +24,8 @@ jobs:
 
       - name: setup-msbuild
         uses: microsoft/setup-msbuild@v2
+        with:
+          vs-prerelease: true
 
       - name: Build
         working-directory: ${{env.GITHUB_WORKSPACE}}
