@@ -21,6 +21,3 @@ jobs:
       - name: "Build"
         id: build
         uses: "./.github/actions/build"
-        with:
-          build-configuration: ${{env.BUILD_CONFIGURATION}}
-          solution-file-path: ${{env.SOLUTION_FILE_PATH}}
