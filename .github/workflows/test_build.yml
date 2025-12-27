@@ -12,8 +12,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6.0.1
         with:
-        submodules: recursive
-      
+          submodules: recursive
+
       - name: "Build"
         id: build
         uses: "./.github/actions/build"
