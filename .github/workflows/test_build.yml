@@ -7,6 +7,7 @@ on:
 
 env:
   SOLUTION_FILE_PATH: .
+  # I use Linux, where debug builds are useless anyway. Feel free to build against debug if you're testing on Windows.
   BUILD_CONFIGURATION: Release
 
 jobs:
