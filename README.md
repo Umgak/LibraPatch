@@ -10,6 +10,7 @@ This mod does nothing on its own. You will need to also edit the game's scripts,
 
 ## Building
 Requires either Visual Studio 2022 build tools or Visual Studio 2026 build tools.
+
 VS2022/VC17:
 ```
 git clone https://github.com/Umgak/LibraPatch.git --recurse-submodules
